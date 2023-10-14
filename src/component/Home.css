@@ -1,0 +1,48 @@
+/* Reset some default styles for consistency */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Apply some basic styling to the entire page */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+/* Create a container for the three layers */
+.container {
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: center; */
+    height: 100vh;
+}
+
+/* Style the sidebar */
+.sidebar {
+    background-color: #333;
+    color: white;
+    width: 250px;
+    padding: 20px;
+}
+
+/* Style the user profile details */
+.user-profile {
+    background-color: white;
+    flex: 1;
+    padding: 20px;
+}
+
+/* Style the graph */
+.graph {
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+.content {
+    flex: 1;
+    padding: 20px;
+}

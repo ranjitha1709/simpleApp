@@ -1,0 +1,11 @@
+/* Styles for the graph component */
+.chart {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+/* Styles for the gauge component */
+.gauge {
+    width: 200px;
+    margin: 0 auto;
+}
