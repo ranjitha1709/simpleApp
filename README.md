@@ -69,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# simpleApp" 
+
+Login page <img width="869" alt="image" src="https://github.com/ranjitha1709/simpleApp/assets/47353205/42fa45a0-bee2-4393-8ad7-43c7948e7209">
+Home page <img width="940" alt="image" src="https://github.com/ranjitha1709/simpleApp/assets/47353205/1558c637-63e0-4a7b-98f4-35718e90c32a">
+
